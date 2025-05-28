@@ -1,9 +1,5 @@
 # Frontend React + Vite - AlejoPinatti
 
-Este repositorio contiene el frontend de una aplicación **CRUD de productos y usuarios**, desarrollado con **React**, **Vite** y **PrimeReact**.
-
-> ⚠️ Para que este proyecto funcione correctamente, asegúrate de tener el backend corriendo. Puedes conectar con cualquier API compatible con los endpoints esperados.
-
 ## Requisitos
 
 - [Node.js](https://nodejs.org/)

@@ -17,13 +17,13 @@ const HomeView = () => {
     >
       <div
         style={{
-          backgroundColor: 'rgba(255, 255, 255, 0.8)',
-          padding: '40px 60px',
+          backgroundColor: 'rgba(255, 255, 255, 0.6)',
+          padding: '40px 100px',
           borderRadius: '15px',
           boxShadow: '0 4px 15px rgba(0,0,0,0)',
           textAlign: 'center',
           maxWidth: '700px',
-          width: '90%',
+          width: '100%',
         }}
       >
         <h1 
